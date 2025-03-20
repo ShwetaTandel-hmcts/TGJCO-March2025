@@ -1,6 +1,13 @@
 # TGJCO-March2025
 
 # Blackjack Coding Challenge
+## How to run the program
+
+1. Run the DeckOdCards.js
+2. Run the blackJack.js
+3. Input the values you want
+
+
 
 ## Objective
 
